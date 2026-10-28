@@ -8,6 +8,8 @@ My public portfolio focuses on **Java 17 and Spring Boot**. It shows my backend 
 
 ## Selected projects
 
+- [**Room Booking API**](https://github.com/felipelabs/room-booking-api) — Spring Boot and PostgreSQL service for room reservations, with overlap prevention, database locking, validation, pagination and Flyway migrations.
+- [**Order Event Service**](https://github.com/felipelabs/order-event-service) — Spring Boot order API demonstrating idempotent requests and the transactional outbox pattern with RabbitMQ confirms and retry handling.
 - [**DSCatalog API**](https://github.com/felipelabs/dscatalog) — product and category REST endpoints, pagination, DTO validation, Spring Data JPA, Spring Security, and tests across repository, service and resource layers.
 - [**Proposal Service**](https://github.com/felipelabs/proposta-app) — a Spring Boot portfolio prototype that stores proposals in PostgreSQL and publishes pending-proposal events through RabbitMQ.
 
